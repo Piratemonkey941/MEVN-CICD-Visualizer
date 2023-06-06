@@ -1,0 +1,27 @@
+Proprietary Software License Agreement
+
+Copyright (c) 2023 Carlos A Rodriguez, Crystal Campbel, Kalon Ohmstede, Jesse Elson. 
+All rights reserved.
+
+1.  Grant of License. Carlos A Rodriguez grants you a personal, non-transferable, 
+    and non-exclusive right to use the software provided with this Agreement.
+
+2.  Restrictions. You may not reverse engineer, decompile, or disassemble the Software. The 
+    Software is licensed as a single product. Its component parts may not be separated for use
+    on more than one computer. This license is for personal use only. Use of the software by 
+    corporations, businesses, or any other commercial entities is expressly forbidden. 
+
+3.  No Warranties. Carlos A Rodriguez expressly disclaims any warranty for the 
+    Software. The Software and any related documentation is provided "as is" without warranty
+    of any kind, either express or implied, including, without limitation, the implied 
+    warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+4.  Limitation of Liability. In no event shall Carlos A Rodriguez be liable for any 
+    damages whatsoever (including, without limitation, damages for loss of business profits, 
+    business interruption, loss of business information, or any other pecuniary loss) arising 
+    out of the use of or inability to use this Carlos A Rodriguez product, even if 
+    Carlos A Rodriguez has been advised of the possibility of such damages.
+
+5.  Termination. Without prejudice to any other rights, Carlos A Rodriguez may 
+    terminate this Agreement if you fail to comply with the terms and conditions of this 
+    Agreement.
